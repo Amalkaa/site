@@ -278,7 +278,7 @@
 }
 
 .img-card-1 {
-    background-image: url(./img/card-1.png);
+    background-image: url(./assets/img/card-1.png);
 }
 
 .btn-time {
@@ -325,7 +325,7 @@
     letter-spacing: 0.5px;
 }
 
-.img-card-2 {background-image: url(./img/card-2.png);}
+.img-card-2 {background-image: url(./assets/img/card-2.png);}
 
 .footer {
     background-color: #F5F6F8;
