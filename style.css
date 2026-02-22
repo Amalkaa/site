@@ -59,6 +59,21 @@
     text-transform: uppercase;
     letter-spacing: 2px;
     font-size: 13px;
+    transition: color 0.4s;
+}
+
+.items a:hover{
+    color: #000000;
+}
+
+.items {
+    transition: background-color 0.4s;
+    padding: 0 5px;
+    border-radius: 3px;
+}
+
+.items:hover{
+    background-color: #febe02;
 }
 
 .header-title {
@@ -279,6 +294,14 @@
 
 .img-card-1 {
     background-image: url(./assets/img/card-1.png);
+}
+
+.img-card-3 {
+    background-image: url(./assets/img/card.jpg);
+}
+
+.img-card-4 {
+    background-image: url(./assets/img/web-design.webp);
 }
 
 .btn-time {
